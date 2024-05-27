@@ -1,4 +1,4 @@
-# Text-based_Hangman
+# Text-based Hangman
 
 ###### ICS3UC - Mr. Brash
 
